@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/agentra-client",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/agentra-client",
+  "usageRepository": "https://github.com/x12i-sdk/agentra-client",
+  "sourceRepository": "https://github.com/x12i/agentra",
+  "sourceCommit": "772e50e64925e6359e42172d4dcf11d4aa795763",
+  "sourcePackageDirectory": "packages/client",
+  "example": {
+    "title": "Read dashboard metadata with an offline API fixture",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:15:30.850708+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "e5f4cca0197869ffa0e68c04e57409ca108ab5a3cac8b31f8ef4ac8840d196fa",
+    "manifestSha256": "c618aed8b57343384dbc4826f6d3baa98f3c4a0c8407d73a656dc73812d4cf58"
+  }
+}
