@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Typed API client for consuming Agentra APIs.
-- Application code needs the agentra-client client surface while the implementation or remote service remains a separate dependency.
+- Read dashboard or report data from an Agentra API.
+- Handle query responses through the typed consumer client.
 
 ## Links
 
